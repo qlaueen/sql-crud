@@ -1,0 +1,1001 @@
+id,res_name,food_type,neighborhood,price,average_rating,good_kids,opening
+1,Colaptes campestroides,Chinese,Harlem,Cheap,3.32,true,20:46
+2,Spilogale gracilis,Salads,Financial District,Medium,0.23,false,16:38
+3,Picoides pubescens,Pizza,East Harlem,Cheap,2.71,true,18:46
+4,Canis mesomelas,Pizza,Chinatown,Cheap,3.07,false,10:06
+5,Elephas maximus bengalensis,Pizza,Financial District,Cheap,2.36,false,22:42
+6,Tauraco porphyrelophus,Burger,Harlem,Medium,1.59,false,18:05
+7,Coluber constrictor,Vegan,Chinatown,Medium,3.04,false,16:38
+8,Plocepasser mahali,Dinner,Harlem,Medium,2.93,true,9:28
+9,Pseudocheirus peregrinus,Dinner,Upper West Side,Medium,3.24,false,21:13
+10,Canis lupus lycaon,Burger,Upper West Side,Cheap,0.13,true,18:47
+11,Chlamydosaurus kingii,Vegan,Chinatown,Cheap,2.72,false,22:53
+12,Zenaida galapagoensis,Pizza,SoHo,Medium,3.5,false,18:11
+13,Acridotheres tristis,Vegan,Upper East Side,Expensive,2.78,true,17:41
+14,Upupa epops,Chinese,Harlem,Medium,4.67,true,19:47
+15,Lybius torquatus,Vegan,Chinatown,Medium,4.16,true,19:00
+16,Chlamydosaurus kingii,Japanese,East Village,Cheap,4.27,false,18:50
+17,Bucorvus leadbeateri,Café,East Harlem,Expensive,3.1,true,10:58
+18,Cordylus giganteus,Pasta,East Harlem,Expensive,1.18,false,12:02
+19,Macaca fuscata,Dinner,Harlem,Expensive,2.4,true,19:13
+20,Cercopithecus aethiops,Burger,East Village,Expensive,3.83,false,9:46
+21,Limnocorax flavirostra,Sandwiches,Upper West Side,Cheap,2.62,false,13:33
+22,Coluber constrictor,Chinese,East Harlem,Expensive,0.83,true,9:56
+23,Cebus apella,Café,SoHo,Expensive,1.14,false,11:01
+24,Orcinus orca,Mediterranean,Chinatown,Expensive,3.42,false,12:01
+25,Limnocorax flavirostra,Vegan,SoHo,Cheap,1.39,false,21:50
+26,Recurvirostra avosetta,Sandwiches,East Village,Medium,1.84,true,10:53
+27,Bettongia penicillata,Korean,SoHo,Cheap,4.76,true,20:42
+28,Sarcorhamphus papa,Café,Harlem,Cheap,0.14,true,19:17
+29,Equus hemionus,Pizza,Financial District,Medium,0.9,false,15:03
+30,Felis concolor,Pasta,Upper West Side,Cheap,4.41,true,15:17
+31,Haliaeetus leucocephalus,Pasta,East Village,Cheap,4.43,false,15:43
+32,Tamiasciurus hudsonicus,Dinner,East Village,Medium,3.91,true,12:09
+33,Ursus maritimus,Café,Upper West Side,Cheap,1.04,false,19:07
+34,Ardea cinerea,Japanese,Chinatown,Cheap,1.7,false,15:41
+35,Microcebus murinus,Dinner,East Village,Medium,2.32,true,19:54
+36,Plocepasser mahali,Japanese,East Harlem,Medium,3.08,true,15:54
+37,Merops sp.,Pasta,East Village,Expensive,3.01,true,22:35
+38,Chloephaga melanoptera,Salads,Harlem,Cheap,3.94,false,16:11
+39,Cyrtodactylus louisiadensis,Café,East Harlem,Medium,3.0,true,15:34
+40,Bassariscus astutus,Café,Financial District,Medium,4.19,true,14:56
+41,Globicephala melas,Salads,Harlem,Medium,2.99,true,16:56
+42,Lepus arcticus,Pasta,SoHo,Medium,2.2,false,10:57
+43,Erinaceus frontalis,Burger,Upper East Side,Cheap,0.59,false,14:10
+44,Pelecanus occidentalis,Mediterranean,East Harlem,Medium,2.28,false,16:35
+45,Connochaetus taurinus,Pizza,East Village,Cheap,4.97,false,18:13
+46,Hyaena brunnea,Dinner,Upper West Side,Medium,3.29,false,12:01
+47,Dusicyon thous,Pizza,Harlem,Cheap,3.73,false,21:29
+48,Canis mesomelas,Japanese,Financial District,Medium,1.44,true,10:30
+49,Eubalaena australis,Korean,Upper East Side,Cheap,4.29,true,13:27
+50,Agelaius phoeniceus,Dinner,East Harlem,Cheap,1.25,false,22:39
+51,Gyps fulvus,Vegan,Financial District,Cheap,1.7,true,15:11
+52,Carphophis sp.,Vegan,East Village,Medium,0.69,true,15:58
+53,Merops nubicus,Pizza,Upper West Side,Medium,4.19,false,11:45
+54,Paroaria gularis,Japanese,East Village,Cheap,0.68,false,15:29
+55,Oncorhynchus nerka,Pizza,Harlem,Medium,3.2,false,13:35
+56,Eolophus roseicapillus,Chinese,Financial District,Cheap,3.6,true,11:20
+57,Papio ursinus,Pasta,Harlem,Expensive,0.91,true,12:11
+58,unavailable,Café,East Village,Medium,4.29,true,21:19
+59,Ardea golieth,Fast Food,East Village,Expensive,0.75,false,12:18
+60,Corvus brachyrhynchos,Café,Harlem,Cheap,2.19,true,15:35
+61,Paradoxurus hermaphroditus,Japanese,East Village,Expensive,3.37,false,17:16
+62,Sus scrofa,Chinese,SoHo,Medium,1.63,false,11:57
+63,Propithecus verreauxi,Chinese,Financial District,Expensive,1.76,true,18:29
+64,Geochelone elephantopus,Chinese,East Village,Medium,2.24,true,20:53
+65,Taxidea taxus,Fast Food,Chinatown,Expensive,3.99,false,19:05
+66,Cynomys ludovicianus,Salads,SoHo,Cheap,1.35,false,10:30
+67,Acridotheres tristis,Pasta,Chinatown,Expensive,2.1,false,9:10
+68,Cereopsis novaehollandiae,Sandwiches,SoHo,Cheap,1.33,false,13:27
+69,Phylurus milli,Korean,Upper East Side,Cheap,2.99,false,21:10
+70,Cereopsis novaehollandiae,Sandwiches,Financial District,Medium,2.97,false,21:57
+71,Felis concolor,Pizza,Harlem,Cheap,2.02,true,15:51
+72,Dacelo novaeguineae,Salads,SoHo,Medium,2.02,true,18:10
+73,Leprocaulinus vipera,Sandwiches,Financial District,Medium,1.31,true,15:18
+74,Falco mexicanus,Fast Food,Upper East Side,Medium,0.94,false,15:38
+75,Bugeranus caruncalatus,Mediterranean,Upper West Side,Cheap,1.25,true,17:00
+76,Giraffe camelopardalis,Pasta,East Village,Cheap,4.83,true,21:34
+77,Morelia spilotes variegata,Café,Chinatown,Medium,0.33,false,9:32
+78,Thalasseus maximus,Pizza,Chinatown,Expensive,0.46,false,12:39
+79,Hystrix cristata,Sandwiches,Financial District,Expensive,4.05,true,13:14
+80,Choloepus hoffmani,Burger,Harlem,Cheap,3.66,false,20:03
+81,Semnopithecus entellus,Vegan,Upper East Side,Medium,1.03,false,13:49
+82,Phascogale calura,Mediterranean,Financial District,Cheap,2.02,false,22:25
+83,Heloderma horridum,Fast Food,East Village,Expensive,2.68,false,15:16
+84,Cacatua tenuirostris,Vegan,East Harlem,Medium,1.25,true,20:10
+85,Aonyx capensis,Café,Upper East Side,Cheap,0.52,true,21:23
+86,Paroaria gularis,Sandwiches,East Harlem,Medium,4.14,false,12:24
+87,Bos mutus,Dinner,East Harlem,Expensive,1.28,true,11:39
+88,Lama glama,Mediterranean,SoHo,Expensive,4.41,true,22:23
+89,Ovis canadensis,Fast Food,Upper West Side,Cheap,1.31,true,13:41
+90,Oryx gazella,Chinese,Chinatown,Expensive,2.72,true,21:21
+91,Bison bison,Vegan,Harlem,Cheap,1.96,false,20:57
+92,Amazona sp.,Japanese,Chinatown,Medium,4.55,true,12:43
+93,Paradoxurus hermaphroditus,Burger,Chinatown,Cheap,1.39,false,12:37
+94,Lybius torquatus,Café,Chinatown,Medium,0.01,true,12:04
+95,Felis serval,Chinese,East Harlem,Medium,1.06,true,15:05
+96,Ninox superciliaris,Mediterranean,Financial District,Cheap,1.06,true,20:26
+97,Trichoglossus haematodus moluccanus,Sandwiches,Upper East Side,Expensive,1.79,true,13:20
+98,Ara chloroptera,Salads,SoHo,Expensive,0.64,false,19:04
+99,Aonyx capensis,Mediterranean,Upper East Side,Cheap,0.26,true,17:22
+100,Ictalurus furcatus,Pizza,SoHo,Cheap,0.9,false,9:22
+101,Pituophis melanaleucus,Fast Food,Upper East Side,Medium,2.01,false,16:11
+102,Alcelaphus buselaphus caama,Pizza,East Harlem,Cheap,1.49,true,14:46
+103,Snycerus caffer,Burger,Financial District,Cheap,2.4,true,21:13
+104,Lamprotornis nitens,Dinner,SoHo,Cheap,4.74,false,21:57
+105,Colaptes campestroides,Pasta,Harlem,Expensive,4.34,false,18:50
+106,Varanus sp.,Korean,SoHo,Medium,3.6,true,10:19
+107,Phoca vitulina,Café,SoHo,Cheap,0.43,false,12:15
+108,Microcebus murinus,Café,Financial District,Cheap,0.85,false,11:57
+109,Pseudocheirus peregrinus,Café,Upper West Side,Expensive,4.96,true,20:56
+110,Sciurus vulgaris,Mediterranean,East Village,Expensive,3.39,false,13:56
+111,Pelecans onocratalus,Pasta,Chinatown,Cheap,1.33,false,15:01
+112,Eurocephalus anguitimens,Mediterranean,Chinatown,Medium,4.84,true,11:49
+113,Castor fiber,Chinese,Harlem,Medium,4.66,true,13:47
+114,Gymnorhina tibicen,Pasta,East Village,Cheap,4.9,true,13:45
+115,Megaderma spasma,Café,East Village,Medium,2.4,false,10:06
+116,Lorythaixoides concolor,Dinner,East Harlem,Cheap,1.43,true,9:32
+117,Paroaria gularis,Pasta,Chinatown,Cheap,2.64,false,10:21
+118,Macropus rufus,Dinner,Upper East Side,Expensive,4.06,true,17:23
+119,Gerbillus sp.,Mediterranean,Chinatown,Medium,4.35,false,19:54
+120,Sterna paradisaea,Japanese,Financial District,Medium,4.16,true,20:51
+121,Cervus duvauceli,Café,East Harlem,Cheap,1.43,true,9:13
+122,Colobus guerza,Salads,East Harlem,Expensive,1.91,true,17:00
+123,Eolophus roseicapillus,Salads,Upper East Side,Cheap,1.75,true,21:12
+124,Colobus guerza,Mediterranean,Upper West Side,Cheap,4.1,false,22:41
+125,Aquila chrysaetos,Café,East Village,Medium,4.4,false,14:41
+126,Cebus albifrons,Fast Food,Upper East Side,Expensive,0.11,true,11:40
+127,Myiarchus tuberculifer,Chinese,Chinatown,Medium,2.47,true,11:45
+128,Diomedea irrorata,Pizza,Upper East Side,Medium,3.79,false,10:36
+129,unavailable,Vegan,Chinatown,Expensive,1.48,true,18:28
+130,Helogale undulata,Mediterranean,East Harlem,Expensive,2.12,false,20:28
+131,Centrocercus urophasianus,Dinner,Upper West Side,Medium,0.34,true,16:59
+132,Anastomus oscitans,Café,East Harlem,Expensive,4.52,true,22:10
+133,Plectopterus gambensis,Korean,East Harlem,Expensive,1.0,false,9:30
+134,Vulpes vulpes,Japanese,East Harlem,Expensive,0.92,false,21:42
+135,Halcyon smyrnesis,Fast Food,SoHo,Expensive,2.57,false,15:49
+136,Cebus apella,Sandwiches,SoHo,Cheap,1.83,true,20:00
+137,Ursus maritimus,Burger,Harlem,Expensive,4.22,false,14:58
+138,Ephipplorhynchus senegalensis,Vegan,Upper West Side,Expensive,3.12,false,9:56
+139,Oncorhynchus nerka,Japanese,Harlem,Cheap,0.02,true,17:43
+140,Ephippiorhynchus mycteria,Sandwiches,East Village,Cheap,2.0,false,13:37
+141,Propithecus verreauxi,Fast Food,Upper West Side,Cheap,0.74,false,15:49
+142,Macropus robustus,Korean,Chinatown,Cheap,2.96,false,15:38
+143,Upupa epops,Pizza,Upper East Side,Expensive,3.25,true,22:53
+144,Anser caerulescens,Dinner,Upper West Side,Medium,0.84,true,10:34
+145,Neotis denhami,Dinner,Financial District,Cheap,0.86,true,17:08
+146,Ursus americanus,Korean,Upper East Side,Medium,2.21,true,17:56
+147,Agkistrodon piscivorus,Vegan,East Village,Cheap,2.59,false,9:34
+148,Vanellus chilensis,Pizza,East Village,Medium,3.85,true,16:54
+149,Trachyphonus vaillantii,Burger,East Harlem,Expensive,4.2,true,22:23
+150,Oxybelis fulgidus,Vegan,SoHo,Medium,1.92,false,15:59
+151,Eira barbata,Pizza,East Harlem,Cheap,2.84,true,11:03
+152,Macropus robustus,Salads,East Harlem,Expensive,0.29,false,11:20
+153,Cercatetus concinnus,Burger,Upper East Side,Medium,4.92,false,16:51
+154,Priodontes maximus,Pizza,East Village,Expensive,2.03,true,16:03
+155,Sylvicapra grimma,Sandwiches,Upper East Side,Expensive,1.13,true,12:08
+156,Papilio canadensis,Vegan,Chinatown,Expensive,4.42,true,16:50
+157,Cercatetus concinnus,Burger,Chinatown,Cheap,1.09,false,10:27
+158,Dasypus novemcinctus,Sandwiches,East Village,Cheap,4.34,true,12:04
+159,Iguana iguana,Burger,East Village,Cheap,3.33,false,15:12
+160,Geococcyx californianus,Café,Upper East Side,Cheap,3.55,false,20:40
+161,Chelodina longicollis,Sandwiches,Upper East Side,Medium,1.21,false,11:56
+162,Xerus sp.,Vegan,Harlem,Medium,1.18,false,18:33
+163,Thalasseus maximus,Café,Upper West Side,Expensive,1.31,false,14:01
+164,Ornithorhynchus anatinus,Burger,East Village,Cheap,0.07,true,18:43
+165,Phasianus colchicus,Pizza,East Village,Cheap,3.51,true,14:45
+166,Tursiops truncatus,Sandwiches,Upper West Side,Expensive,3.97,true,10:53
+167,Picoides pubescens,Korean,Chinatown,Medium,2.61,true,20:40
+168,Ceryle rudis,Chinese,East Harlem,Cheap,2.22,true,12:34
+169,Varanus salvator,Café,East Village,Expensive,2.26,true,20:47
+170,Macropus parryi,Chinese,East Village,Medium,3.31,false,22:52
+171,Diceros bicornis,Pasta,Harlem,Medium,4.88,true,22:53
+172,Kobus vardonii vardoni,Dinner,Upper East Side,Cheap,0.96,false,18:06
+173,Canis aureus,Burger,SoHo,Medium,0.18,false,12:05
+174,Mirounga angustirostris,Burger,Upper West Side,Cheap,3.17,false,18:06
+175,Ramphastos tucanus,Salads,Harlem,Medium,2.28,false,13:45
+176,Ara macao,Chinese,SoHo,Expensive,3.07,false,10:02
+177,Lamprotornis nitens,Burger,SoHo,Medium,1.78,false,11:52
+178,Eurocephalus anguitimens,Café,East Village,Cheap,0.17,true,22:33
+179,Alopochen aegyptiacus,Dinner,Chinatown,Expensive,2.16,true,13:52
+180,Recurvirostra avosetta,Mediterranean,East Harlem,Medium,2.25,false,11:27
+181,Connochaetus taurinus,Fast Food,East Village,Medium,1.68,true,15:26
+182,Myiarchus tuberculifer,Pasta,SoHo,Expensive,2.65,false,14:25
+183,Acridotheres tristis,Café,Harlem,Medium,1.95,true,11:18
+184,Oryx gazella callotis,Café,East Harlem,Cheap,2.25,true,17:30
+185,Estrilda erythronotos,Japanese,Upper East Side,Expensive,3.03,true,19:06
+186,Anas bahamensis,Café,Upper East Side,Expensive,3.85,true,21:26
+187,Mirounga angustirostris,Korean,Chinatown,Expensive,4.97,true,17:14
+188,Vulpes cinereoargenteus,Sandwiches,Chinatown,Expensive,3.22,false,10:53
+189,Dusicyon thous,Japanese,Chinatown,Cheap,1.22,true,21:20
+190,Macaca fuscata,Sandwiches,SoHo,Expensive,0.03,false,12:02
+191,Plectopterus gambensis,Dinner,SoHo,Cheap,0.8,false,10:34
+192,Balearica pavonina,Chinese,SoHo,Expensive,3.24,false,17:47
+193,Haliaeetus leucoryphus,Dinner,East Village,Cheap,0.98,true,9:22
+194,Phalacrocorax brasilianus,Dinner,Chinatown,Cheap,4.68,true,14:40
+195,Cyrtodactylus louisiadensis,Dinner,Financial District,Medium,4.41,true,20:02
+196,Dendrocygna viduata,Salads,Financial District,Medium,3.65,true,11:42
+197,Bradypus tridactylus,Burger,East Harlem,Expensive,2.73,true,10:20
+198,Ardea cinerea,Café,East Harlem,Cheap,3.48,false,18:20
+199,Nyctereutes procyonoides,Dinner,Upper West Side,Expensive,2.87,true,21:14
+200,Erinaceus frontalis,Chinese,East Harlem,Medium,1.56,true,10:05
+201,Aegypius tracheliotus,Mediterranean,SoHo,Cheap,3.34,true,21:17
+202,Butorides striatus,Fast Food,SoHo,Medium,3.48,true,18:10
+203,Propithecus verreauxi,Chinese,Upper East Side,Expensive,0.33,false,18:20
+204,Hyaena brunnea,Sandwiches,Financial District,Cheap,3.29,false,10:08
+205,Morelia spilotes variegata,Fast Food,Upper West Side,Expensive,4.08,true,16:15
+206,Egretta thula,Fast Food,East Village,Expensive,4.69,true,19:50
+207,Lemur fulvus,Pasta,Upper East Side,Medium,2.16,true,17:27
+208,Sylvilagus floridanus,Mediterranean,SoHo,Expensive,0.39,true,19:10
+209,Limnocorax flavirostra,Chinese,Upper West Side,Expensive,3.24,true,16:36
+210,Upupa epops,Fast Food,East Harlem,Expensive,3.94,true,10:07
+211,Chlamydosaurus kingii,Japanese,Harlem,Medium,3.51,false,19:40
+212,Paradoxurus hermaphroditus,Pasta,East Harlem,Cheap,4.12,false,16:54
+213,Neophron percnopterus,Chinese,Harlem,Medium,0.34,true,13:36
+214,Gymnorhina tibicen,Fast Food,Financial District,Medium,3.99,true,13:33
+215,Cacatua tenuirostris,Japanese,Chinatown,Cheap,0.68,true,13:02
+216,Phoenicopterus ruber,Mediterranean,East Village,Cheap,1.62,true,9:25
+217,Bassariscus astutus,Chinese,Upper West Side,Expensive,3.04,true,22:56
+218,Smithopsis crassicaudata,Korean,Upper West Side,Medium,0.46,false,11:46
+219,Pterocles gutturalis,Sandwiches,Financial District,Medium,1.35,true,15:32
+220,Zosterops pallidus,Mediterranean,Financial District,Expensive,1.02,true,12:16
+221,Hymenolaimus malacorhynchus,Burger,East Harlem,Medium,0.1,true,18:00
+222,Leprocaulinus vipera,Japanese,Financial District,Cheap,2.81,false,18:07
+223,Pycnonotus nigricans,Japanese,SoHo,Expensive,4.84,true,17:41
+224,Orcinus orca,Korean,Chinatown,Cheap,2.94,false,12:10
+225,Felis wiedi or Leopardus weidi,Café,SoHo,Cheap,1.97,false,14:05
+226,Butorides striatus,Mediterranean,Chinatown,Expensive,2.48,false,19:36
+227,Chionis alba,Pasta,Upper East Side,Expensive,1.31,true,22:51
+228,Lemur fulvus,Fast Food,Financial District,Expensive,1.78,true,14:47
+229,Camelus dromedarius,Café,Harlem,Cheap,3.51,true,21:42
+230,Tenrec ecaudatus,Salads,East Harlem,Cheap,4.37,false,17:18
+231,unavailable,Dinner,SoHo,Expensive,2.68,true,9:33
+232,Numida meleagris,Sandwiches,Financial District,Medium,2.97,false,20:41
+233,Corallus hortulanus cooki,Sandwiches,Chinatown,Medium,3.54,true,11:16
+234,Thylogale stigmatica,Burger,SoHo,Cheap,2.09,false,14:08
+235,Cacatua galerita,Korean,Financial District,Medium,3.32,true,17:05
+236,Terrapene carolina,Japanese,Harlem,Medium,2.91,true,20:27
+237,Aonyx cinerea,Pasta,Upper East Side,Cheap,2.48,true,21:48
+238,Ninox superciliaris,Dinner,East Harlem,Cheap,4.11,true,10:19
+239,Canis lupus baileyi,Korean,Upper East Side,Cheap,3.8,true,13:18
+240,Lemur fulvus,Chinese,Upper East Side,Medium,2.05,false,22:46
+241,Mellivora capensis,Korean,Harlem,Expensive,0.31,false,10:41
+242,Stercorarius longicausus,Dinner,East Village,Cheap,4.64,false,16:44
+243,Phoenicopterus chilensis,Sandwiches,SoHo,Cheap,3.27,true,17:59
+244,Proteles cristatus,Salads,Financial District,Medium,3.79,true,10:58
+245,Ratufa indica,Burger,Financial District,Cheap,0.43,true,14:33
+246,Ramphastos tucanus,Chinese,SoHo,Medium,3.44,false,13:42
+247,Agkistrodon piscivorus,Burger,East Village,Cheap,2.35,false,15:57
+248,Aegypius tracheliotus,Dinner,Harlem,Cheap,0.97,false,9:25
+249,Pycnonotus nigricans,Korean,Upper West Side,Cheap,4.09,false,9:07
+250,Pavo cristatus,Pasta,Chinatown,Medium,3.73,true,14:20
+251,Ara chloroptera,Burger,SoHo,Medium,4.42,true,15:29
+252,Macaca mulatta,Dinner,East Village,Cheap,1.76,true,13:17
+253,Paroaria gularis,Japanese,East Village,Expensive,1.22,false,16:40
+254,Raphicerus campestris,Pizza,Financial District,Medium,0.93,false,13:55
+255,Myiarchus tuberculifer,Dinner,SoHo,Expensive,4.18,false,9:55
+256,Procyon cancrivorus,Chinese,East Harlem,Expensive,0.1,true,12:32
+257,Canis lupus baileyi,Pizza,Financial District,Medium,2.64,false,18:06
+258,Sciurus niger,Salads,Harlem,Medium,0.25,true,19:37
+259,Ciconia ciconia,Pizza,Harlem,Medium,2.35,true,18:29
+260,Dendrohyrax brucel,Vegan,Harlem,Expensive,2.34,false,10:17
+261,unavailable,Burger,Harlem,Cheap,0.92,true,10:34
+262,Acanthaster planci,Japanese,Financial District,Medium,0.05,true,12:20
+263,Fratercula corniculata,Dinner,Harlem,Cheap,3.97,true,9:29
+264,Eolophus roseicapillus,Salads,East Village,Medium,3.28,false,15:21
+265,Marmota monax,Pasta,Financial District,Expensive,1.06,true,19:09
+266,Sarkidornis melanotos,Korean,East Village,Cheap,0.01,true,21:38
+267,Cercopithecus aethiops,Café,Upper West Side,Cheap,2.23,false,12:49
+268,Himantopus himantopus,Mediterranean,Financial District,Cheap,2.03,false,10:46
+269,Proteles cristatus,Pasta,Upper East Side,Medium,3.75,true,12:08
+270,Choriotis kori,Fast Food,Chinatown,Medium,2.99,false,20:53
+271,Lamprotornis superbus,Pizza,Chinatown,Expensive,3.84,true,20:08
+272,Vanellus chilensis,Pasta,Chinatown,Expensive,1.3,false,22:03
+273,Aonyx capensis,Chinese,Harlem,Medium,3.13,true,18:24
+274,Oreotragus oreotragus,Korean,East Harlem,Expensive,1.86,true,10:52
+275,Diceros bicornis,Chinese,Harlem,Cheap,4.72,true,19:54
+276,Morelia spilotes variegata,Vegan,Upper East Side,Expensive,1.17,true,12:17
+277,Upupa epops,Salads,Harlem,Cheap,4.01,false,22:32
+278,Podargus strigoides,Sandwiches,East Village,Cheap,0.3,true,17:38
+279,Procyon cancrivorus,Japanese,Financial District,Medium,0.64,true,18:01
+280,Herpestes javanicus,Burger,Upper East Side,Expensive,1.37,true,10:24
+281,Felis libyca,Burger,Financial District,Medium,3.17,true,9:18
+282,Vanellus chilensis,Vegan,Chinatown,Expensive,1.53,true,11:22
+283,Phalaropus fulicarius,Chinese,Upper West Side,Expensive,1.1,true,12:41
+284,Erethizon dorsatum,Burger,East Village,Expensive,0.04,false,11:13
+285,Rhea americana,Fast Food,Upper East Side,Medium,2.01,false,16:20
+286,Lybius torquatus,Sandwiches,Harlem,Medium,3.34,false,11:48
+287,Dicrurus adsimilis,Sandwiches,Financial District,Cheap,4.82,false,12:30
+288,Odocoileus hemionus,Salads,Chinatown,Medium,1.18,false,10:09
+289,Bucephala clangula,Salads,SoHo,Medium,4.16,false,21:49
+290,Cordylus giganteus,Pasta,Financial District,Cheap,4.8,true,15:11
+291,Leipoa ocellata,Pizza,East Harlem,Medium,2.46,true,19:51
+292,Meleagris gallopavo,Burger,East Village,Cheap,3.06,true,16:16
+293,Spermophilus tridecemlineatus,Burger,SoHo,Cheap,3.98,true,11:34
+294,Pavo cristatus,Café,East Village,Expensive,4.67,true,22:39
+295,Sarkidornis melanotos,Sandwiches,East Harlem,Cheap,0.07,false,11:28
+296,Bucorvus leadbeateri,Mediterranean,Upper East Side,Expensive,4.13,true,21:38
+297,Psittacula krameri,Vegan,SoHo,Expensive,4.63,false,11:09
+298,Eurocephalus anguitimens,Japanese,Harlem,Expensive,1.75,false,21:34
+299,Macaca radiata,Salads,East Village,Expensive,1.02,true,9:25
+300,Bassariscus astutus,Burger,Harlem,Expensive,1.7,true,12:29
+301,Damaliscus dorcas,Burger,Financial District,Expensive,2.27,false,22:56
+302,Eudromia elegans,Salads,Financial District,Expensive,0.71,true,17:34
+303,Marmota monax,Salads,East Village,Medium,2.88,false,14:10
+304,Dicrostonyx groenlandicus,Fast Food,Harlem,Expensive,1.46,true,22:43
+305,Dendrocitta vagabunda,Café,East Harlem,Medium,1.57,true,19:14
+306,Phoca vitulina,Sandwiches,Chinatown,Medium,1.87,false,17:14
+307,Perameles nasuta,Mediterranean,Financial District,Medium,4.77,false,12:46
+308,Tringa glareola,Pizza,Financial District,Cheap,0.97,true,14:09
+309,Hymenolaimus malacorhynchus,Vegan,Financial District,Medium,0.47,true,12:32
+310,Eubalaena australis,Salads,East Village,Expensive,4.56,true,21:41
+311,Bos mutus,Pasta,East Village,Medium,1.77,true,22:44
+312,Sagittarius serpentarius,Café,Upper West Side,Cheap,4.76,true,9:36
+313,Dasypus novemcinctus,Burger,Upper East Side,Cheap,3.78,true,14:26
+314,Melanerpes erythrocephalus,Fast Food,Harlem,Cheap,3.69,false,13:10
+315,Ovis canadensis,Café,Chinatown,Medium,4.01,false,13:13
+316,Dasypus novemcinctus,Pasta,Chinatown,Cheap,2.57,true,11:04
+317,Colobus guerza,Pasta,Chinatown,Cheap,4.88,true,10:02
+318,Mirounga angustirostris,Korean,Chinatown,Medium,3.57,true,17:31
+319,unavailable,Pasta,Chinatown,Cheap,0.9,true,22:46
+320,Buteo galapagoensis,Dinner,East Village,Medium,4.28,true,12:13
+321,Dasyurus viverrinus,Chinese,Chinatown,Cheap,4.62,false,10:05
+322,Galictis vittata,Vegan,East Harlem,Expensive,2.63,true,18:05
+323,Ctenophorus ornatus,Pizza,Upper West Side,Cheap,0.39,false,20:20
+324,Pelecanus conspicillatus,Vegan,Upper West Side,Expensive,2.79,true,9:22
+325,Ictonyx striatus,Burger,East Harlem,Medium,4.59,false,10:57
+326,Ursus maritimus,Pizza,Upper East Side,Medium,0.69,false,17:15
+327,Canis mesomelas,Vegan,Financial District,Cheap,3.48,true,19:29
+328,Crotalus triseriatus,Burger,Financial District,Expensive,4.23,false,12:06
+329,Chlamydosaurus kingii,Salads,Harlem,Expensive,2.99,false,18:43
+330,Phalacrocorax albiventer,Fast Food,Chinatown,Cheap,3.6,true,9:48
+331,Ara chloroptera,Burger,Upper East Side,Medium,2.48,false,21:04
+332,Passer domesticus,Pizza,Chinatown,Expensive,2.5,true,19:20
+333,Phalacrocorax niger,Café,East Village,Expensive,4.31,true,10:58
+334,Butorides striatus,Fast Food,Chinatown,Cheap,0.64,false,20:27
+335,Spermophilus tridecemlineatus,Pizza,East Harlem,Medium,4.71,false,22:35
+336,Semnopithecus entellus,Sandwiches,SoHo,Expensive,2.75,true,21:09
+337,Ardea cinerea,Chinese,Chinatown,Medium,3.89,true,22:14
+338,Coluber constrictor,Burger,Upper East Side,Expensive,1.71,true,10:48
+339,Himantopus himantopus,Chinese,Financial District,Medium,2.85,true,9:44
+340,Phalaropus fulicarius,Fast Food,East Harlem,Cheap,4.14,true,18:01
+341,Phaethon aethereus,Pizza,East Village,Cheap,2.61,true,22:35
+342,Diceros bicornis,Sandwiches,Upper East Side,Expensive,0.06,false,17:53
+343,Limnocorax flavirostra,Mediterranean,Harlem,Medium,1.8,true,19:12
+344,Damaliscus dorcas,Mediterranean,East Village,Cheap,2.47,false,13:29
+345,Phacochoerus aethiopus,Korean,Upper East Side,Medium,2.57,true,18:30
+346,Cynictis penicillata,Café,East Village,Medium,2.38,true,18:22
+347,Phalacrocorax niger,Korean,Chinatown,Cheap,4.63,true,19:18
+348,Lybius torquatus,Vegan,SoHo,Expensive,2.17,false,16:40
+349,Colaptes campestroides,Fast Food,East Harlem,Cheap,0.82,false,14:29
+350,Grus canadensis,Fast Food,Financial District,Medium,0.07,true,18:59
+351,Cygnus atratus,Japanese,SoHo,Expensive,1.87,true,22:19
+352,Choloepus hoffmani,Burger,Financial District,Cheap,3.79,false,12:29
+353,Macropus fuliginosus,Chinese,Upper West Side,Cheap,4.98,false,9:31
+354,Herpestes javanicus,Burger,Harlem,Medium,2.89,true,9:28
+355,Paraxerus cepapi,Mediterranean,Financial District,Expensive,3.0,false,19:55
+356,Microcebus murinus,Pasta,East Harlem,Medium,0.56,true,20:35
+357,Tiliqua scincoides,Dinner,Chinatown,Medium,3.28,false,15:14
+358,Rhea americana,Fast Food,Harlem,Cheap,1.73,true,19:44
+359,Loxodonta africana,Mediterranean,East Harlem,Cheap,4.94,true,13:45
+360,Erethizon dorsatum,Café,Upper East Side,Expensive,3.28,false,16:43
+361,Ictonyx striatus,Chinese,Financial District,Medium,3.78,false,19:48
+362,Haliaeetus leucocephalus,Sandwiches,Harlem,Expensive,2.05,true,16:13
+363,Rhea americana,Dinner,Chinatown,Medium,3.12,false,14:35
+364,Papio ursinus,Burger,Harlem,Expensive,0.29,false,20:20
+365,Rangifer tarandus,Fast Food,Upper West Side,Expensive,3.71,false,16:57
+366,Trichoglossus haematodus moluccanus,Fast Food,Upper West Side,Medium,0.35,true,11:31
+367,Coendou prehensilis,Japanese,SoHo,Cheap,3.36,false,22:05
+368,Buteo galapagoensis,Chinese,Upper East Side,Cheap,0.84,false,15:14
+369,Alectura lathami,Salads,Financial District,Medium,3.91,false,21:34
+370,unavailable,Salads,Financial District,Expensive,1.05,false,17:59
+371,Acrantophis madagascariensis,Korean,Chinatown,Expensive,3.87,true,12:41
+372,Macropus rufogriseus,Vegan,Upper West Side,Medium,1.52,false,14:32
+373,Sitta canadensis,Mediterranean,East Harlem,Cheap,1.25,true,22:52
+374,Ratufa indica,Café,East Harlem,Medium,3.55,true,21:06
+375,Varanus sp.,Mediterranean,Financial District,Expensive,0.22,false,11:47
+376,Picoides pubescens,Salads,Upper East Side,Cheap,4.66,true,9:34
+377,Haliaeetus leucocephalus,Mediterranean,Upper East Side,Cheap,4.2,false,18:40
+378,Vulpes vulpes,Pasta,East Harlem,Medium,0.37,true,12:42
+379,Castor fiber,Café,East Village,Cheap,2.13,false,20:08
+380,Callipepla gambelii,Dinner,Financial District,Expensive,2.15,true,9:14
+381,Ursus arctos,Salads,East Harlem,Cheap,0.06,false,12:28
+382,Equus burchelli,Café,East Village,Medium,0.21,true,19:15
+383,Recurvirostra avosetta,Japanese,Upper East Side,Expensive,4.06,true,21:01
+384,Loxodonta africana,Sandwiches,Chinatown,Expensive,0.31,false,13:30
+385,Pteropus rufus,Chinese,East Village,Expensive,1.86,true,9:39
+386,Cochlearius cochlearius,Fast Food,Financial District,Cheap,5.0,false,14:31
+387,Phacochoerus aethiopus,Salads,Upper West Side,Medium,2.3,true,22:45
+388,Ara ararauna,Vegan,East Village,Medium,1.75,false,15:42
+389,Megaderma spasma,Vegan,Harlem,Medium,1.45,false,20:35
+390,Corvus brachyrhynchos,Burger,Chinatown,Cheap,0.58,false,18:07
+391,unavailable,Pasta,Financial District,Expensive,3.89,false,16:48
+392,Bubalornis niger,Japanese,Harlem,Cheap,2.31,false,17:48
+393,Bos taurus,Sandwiches,East Harlem,Cheap,3.5,false,13:05
+394,Fregata magnificans,Fast Food,Upper West Side,Expensive,0.79,false,21:49
+395,Coendou prehensilis,Korean,Upper West Side,Medium,4.87,false,16:41
+396,Actophilornis africanus,Japanese,Financial District,Medium,0.71,false,20:11
+397,Phasianus colchicus,Burger,East Harlem,Medium,0.13,false,20:13
+398,Streptopelia decipiens,Fast Food,East Village,Medium,2.51,true,10:35
+399,Felis caracal,Café,Upper West Side,Medium,0.3,true,20:54
+400,Antilocapra americana,Salads,Harlem,Cheap,2.29,true,14:51
+401,Hymenolaimus malacorhynchus,Burger,East Harlem,Expensive,1.19,true,20:52
+402,Lophoaetus occipitalis,Burger,Upper East Side,Cheap,4.45,false,11:56
+403,Pitangus sulphuratus,Pizza,Upper East Side,Cheap,3.01,true,15:37
+404,Hymenolaimus malacorhynchus,Pizza,East Village,Cheap,1.0,false,21:03
+405,Felis silvestris lybica,Pizza,Upper West Side,Cheap,3.25,false,17:53
+406,Libellula quadrimaculata,Café,East Harlem,Expensive,4.45,false,21:10
+407,Podargus strigoides,Sandwiches,East Village,Cheap,2.93,false,13:17
+408,Leptoptilos crumeniferus,Burger,SoHo,Expensive,0.1,true,9:08
+409,Larus dominicanus,Vegan,East Village,Expensive,1.08,true,16:44
+410,Eolophus roseicapillus,Fast Food,Chinatown,Medium,2.48,false,22:14
+411,Trichosurus vulpecula,Chinese,Upper East Side,Cheap,0.07,true,13:31
+412,Cygnus atratus,Salads,Harlem,Medium,3.98,false,14:07
+413,Aegypius tracheliotus,Mediterranean,Financial District,Cheap,4.54,false,13:02
+414,Pteronura brasiliensis,Vegan,SoHo,Medium,0.54,true,22:01
+415,Crotalus cerastes,Pasta,Upper West Side,Cheap,4.98,true,21:06
+416,Thamnolaea cinnmomeiventris,Pizza,Financial District,Medium,3.85,true,13:27
+417,Tockus flavirostris,Vegan,Financial District,Expensive,3.8,false,22:53
+418,Hystrix cristata,Pizza,Upper West Side,Cheap,3.21,false,11:59
+419,Otocyon megalotis,Korean,East Harlem,Cheap,4.72,false,21:18
+420,Cercatetus concinnus,Japanese,East Village,Medium,0.69,false,13:00
+421,Laniaurius atrococcineus,Pasta,Financial District,Medium,4.72,false,11:30
+422,Prionace glauca,Burger,Upper West Side,Expensive,2.99,true,20:26
+423,Alcelaphus buselaphus cokii,Burger,SoHo,Cheap,2.23,true,19:43
+424,Procyon cancrivorus,Burger,Financial District,Cheap,1.92,true,11:46
+425,Macaca mulatta,Mediterranean,Chinatown,Medium,2.89,false,10:46
+426,Isoodon obesulus,Salads,Upper West Side,Cheap,3.21,false,18:46
+427,Pituophis melanaleucus,Korean,East Village,Medium,4.27,true,13:49
+428,Egretta thula,Korean,Financial District,Medium,2.81,true,11:58
+429,Lycaon pictus,Pasta,SoHo,Expensive,3.9,false,21:26
+430,Estrilda erythronotos,Café,SoHo,Expensive,0.68,false,13:19
+431,Fregata magnificans,Korean,Chinatown,Expensive,2.3,false,10:19
+432,Smithopsis crassicaudata,Mediterranean,East Village,Expensive,2.13,false,19:02
+433,Varanus komodensis,Chinese,Harlem,Cheap,1.7,false,13:05
+434,Ardea golieth,Vegan,East Harlem,Expensive,4.13,true,14:42
+435,Gyps bengalensis,Burger,East Harlem,Expensive,4.2,false,20:53
+436,Threskionis aethiopicus,Chinese,SoHo,Medium,1.9,false,21:26
+437,Melursus ursinus,Fast Food,Financial District,Medium,1.9,true,10:39
+438,Francolinus swainsonii,Korean,Upper East Side,Expensive,3.2,true,19:54
+439,Uraeginthus bengalus,Salads,Upper East Side,Expensive,1.1,false,17:33
+440,Ploceus rubiginosus,Burger,Financial District,Expensive,1.53,true,12:48
+441,Actophilornis africanus,Dinner,SoHo,Cheap,4.64,false,15:53
+442,Larus novaehollandiae,Sandwiches,Financial District,Cheap,0.51,true,15:25
+443,unavailable,Salads,Upper West Side,Medium,4.81,true,21:23
+444,Carduelis uropygialis,Vegan,Upper East Side,Cheap,1.42,true,20:06
+445,Carphophis sp.,Café,Financial District,Cheap,1.32,false,15:07
+446,Isoodon obesulus,Mediterranean,Harlem,Expensive,4.7,true,13:23
+447,Anas bahamensis,Chinese,Chinatown,Medium,0.76,false,9:03
+448,Melanerpes erythrocephalus,Dinner,East Village,Cheap,1.88,true,13:48
+449,Felis wiedi or Leopardus weidi,Sandwiches,SoHo,Medium,1.89,false,16:22
+450,Pycnonotus nigricans,Café,Harlem,Medium,0.14,false,18:40
+451,Terathopius ecaudatus,Burger,Financial District,Cheap,4.12,true,16:21
+452,Pseudocheirus peregrinus,Japanese,Upper West Side,Cheap,3.95,true,13:29
+453,Melophus lathami,Pizza,Financial District,Expensive,1.9,false,13:20
+454,Propithecus verreauxi,Korean,Upper West Side,Expensive,3.2,true,21:30
+455,Tamiasciurus hudsonicus,Pizza,Chinatown,Expensive,3.35,true,13:57
+456,Paradoxurus hermaphroditus,Dinner,Harlem,Medium,3.12,false,20:41
+457,unavailable,Vegan,East Village,Cheap,0.58,true,22:34
+458,Sula dactylatra,Burger,East Harlem,Cheap,1.56,true,22:04
+459,Canis lupus baileyi,Fast Food,East Village,Medium,4.2,true,20:42
+460,Trichoglossus chlorolepidotus,Pasta,Chinatown,Medium,4.93,true,18:56
+461,Lemur catta,Burger,Financial District,Medium,0.73,false,16:35
+462,Trichoglossus chlorolepidotus,Chinese,Upper East Side,Expensive,3.12,false,17:38
+463,Bubalus arnee,Sandwiches,Financial District,Medium,4.37,false,17:01
+464,Morelia spilotes variegata,Japanese,East Harlem,Medium,2.18,false,17:04
+465,Geococcyx californianus,Pasta,Harlem,Medium,4.77,false,9:10
+466,Myrmecobius fasciatus,Vegan,SoHo,Cheap,3.75,true,9:22
+467,Stercorarius longicausus,Salads,Financial District,Expensive,0.36,true,16:42
+468,Aonyx capensis,Fast Food,Upper East Side,Medium,1.62,true,15:46
+469,Erethizon dorsatum,Chinese,SoHo,Expensive,4.59,false,22:11
+470,Ateles paniscus,Mediterranean,SoHo,Medium,2.67,true,21:56
+471,Phalacrocorax niger,Vegan,East Harlem,Medium,1.14,false,10:56
+472,Cracticus nigroagularis,Pizza,East Village,Expensive,1.33,true,17:43
+473,Zalophus californicus,Pizza,SoHo,Cheap,4.79,false,14:14
+474,Francolinus leucoscepus,Mediterranean,SoHo,Cheap,3.17,false,19:26
+475,Buteo regalis,Chinese,Upper West Side,Expensive,0.94,true,13:05
+476,Aonyx cinerea,Burger,Chinatown,Cheap,3.73,false,20:31
+477,Ovis ammon,Korean,Financial District,Medium,1.97,true,10:04
+478,Varanus albigularis,Burger,Chinatown,Medium,3.34,true,14:49
+479,Phaethon aethereus,Dinner,Upper East Side,Cheap,4.64,true,18:37
+480,Hystrix cristata,Mediterranean,Upper East Side,Expensive,3.77,false,20:23
+481,Trachyphonus vaillantii,Korean,Financial District,Expensive,3.52,false,9:54
+482,Egretta thula,Fast Food,East Harlem,Expensive,4.66,false,19:17
+483,Merops nubicus,Pizza,Chinatown,Expensive,0.19,true,11:44
+484,Cracticus nigroagularis,Pasta,East Village,Medium,4.22,false,9:38
+485,Bos taurus,Café,Upper West Side,Medium,1.3,true,18:48
+486,Theropithecus gelada,Pasta,Harlem,Medium,1.08,false,15:23
+487,Ateles paniscus,Korean,East Village,Cheap,2.06,true,16:35
+488,Eudyptula minor,Café,Upper East Side,Cheap,3.32,true,18:29
+489,Ardea cinerea,Vegan,SoHo,Medium,4.49,false,17:03
+490,Panthera pardus,Salads,East Harlem,Cheap,4.32,true,10:08
+491,Certotrichas paena,Japanese,Upper East Side,Cheap,2.26,false,10:45
+492,Ursus arctos,Dinner,Upper East Side,Cheap,4.65,true,21:54
+493,Cordylus giganteus,Chinese,Upper East Side,Cheap,1.33,false,21:15
+494,Parus atricapillus,Korean,Upper West Side,Cheap,4.72,false,15:34
+495,Centrocercus urophasianus,Fast Food,Upper East Side,Cheap,4.67,false,9:55
+496,Lepus townsendii,Sandwiches,Chinatown,Medium,4.87,false,11:09
+497,Rangifer tarandus,Burger,Upper West Side,Medium,2.07,true,10:14
+498,Damaliscus lunatus,Japanese,East Harlem,Cheap,3.29,false,16:46
+499,Diceros bicornis,Chinese,Harlem,Cheap,2.99,true,21:26
+500,Equus burchelli,Japanese,Chinatown,Cheap,5.0,false,14:43
+501,Ovis dalli stonei,Pizza,SoHo,Expensive,0.25,false,17:18
+502,Colobus guerza,Burger,SoHo,Cheap,0.53,true,11:19
+503,Spizaetus coronatus,Vegan,Financial District,Expensive,4.44,true,10:57
+504,Cordylus giganteus,Chinese,Financial District,Medium,3.81,false,14:12
+505,Pteropus rufus,Vegan,East Village,Medium,3.28,true,22:45
+506,Ratufa indica,Japanese,East Harlem,Medium,0.55,true,19:18
+507,Pterocles gutturalis,Japanese,Upper West Side,Expensive,0.39,true,14:07
+508,Microcavia australis,Sandwiches,East Harlem,Medium,3.01,true,21:12
+509,Colobus guerza,Pizza,Financial District,Cheap,3.97,false,9:04
+510,Phascogale calura,Japanese,SoHo,Expensive,0.92,true,17:15
+511,Mycteria ibis,Mediterranean,Financial District,Cheap,3.36,true,22:05
+512,Carphophis sp.,Japanese,Harlem,Expensive,1.71,false,17:14
+513,Ardea cinerea,Japanese,East Village,Expensive,4.91,true,19:49
+514,Perameles nasuta,Chinese,Upper East Side,Expensive,3.6,true,9:35
+515,Bassariscus astutus,Salads,Harlem,Medium,1.82,true,9:08
+516,Ara ararauna,Café,East Harlem,Expensive,0.67,true,20:19
+517,Vicugna vicugna,Burger,Upper West Side,Medium,4.91,true,21:47
+518,Vulpes vulpes,Vegan,SoHo,Medium,3.14,false,19:51
+519,Lamprotornis nitens,Mediterranean,Financial District,Medium,1.84,false,13:18
+520,Hippotragus equinus,Café,Upper East Side,Cheap,0.81,false,12:47
+521,Choriotis kori,Korean,Harlem,Expensive,4.58,true,16:00
+522,Bugeranus caruncalatus,Café,Financial District,Expensive,1.36,true,16:13
+523,Spizaetus coronatus,Mediterranean,Upper West Side,Cheap,1.79,true,21:25
+524,Phalacrocorax varius,Chinese,East Harlem,Cheap,4.69,true,13:53
+525,Alcelaphus buselaphus caama,Pasta,East Harlem,Cheap,3.58,true,10:41
+526,Taurotagus oryx,Café,Chinatown,Expensive,0.9,false,17:59
+527,unavailable,Fast Food,Upper West Side,Medium,0.26,true,17:54
+528,Oreamnos americanus,Sandwiches,Financial District,Expensive,2.52,false,17:55
+529,Trichosurus vulpecula,Fast Food,East Village,Cheap,4.57,false,13:58
+530,Lycosa godeffroyi,Vegan,Chinatown,Cheap,0.34,true,15:50
+531,Thamnolaea cinnmomeiventris,Dinner,Chinatown,Expensive,0.03,false,14:11
+532,Dicrostonyx groenlandicus,Salads,Harlem,Medium,1.24,false,20:44
+533,Sula dactylatra,Chinese,Upper East Side,Medium,3.6,false,15:45
+534,Himantopus himantopus,Mediterranean,Chinatown,Medium,4.4,true,17:30
+535,Creagrus furcatus,Japanese,East Village,Expensive,0.02,true,22:02
+536,Odocoileus hemionus,Mediterranean,Upper West Side,Expensive,4.22,true,17:58
+537,Butorides striatus,Japanese,Harlem,Cheap,1.83,true,14:11
+538,unavailable,Burger,Upper West Side,Cheap,3.03,false,22:32
+539,Sagittarius serpentarius,Chinese,Upper West Side,Medium,0.87,true,12:11
+540,Limnocorax flavirostra,Fast Food,Financial District,Medium,4.47,false,15:57
+541,Spizaetus coronatus,Salads,Upper East Side,Cheap,2.73,true,12:23
+542,Mirounga angustirostris,Fast Food,Financial District,Expensive,0.28,true,19:56
+543,Manouria emys,Chinese,East Harlem,Medium,3.21,false,18:06
+544,Ovis dalli stonei,Vegan,Upper West Side,Cheap,1.16,true,9:14
+545,Mazama gouazoubira,Chinese,Chinatown,Expensive,3.46,false,18:31
+546,Paradoxurus hermaphroditus,Korean,East Harlem,Cheap,1.3,false,22:05
+547,Limosa haemastica,Dinner,SoHo,Cheap,2.07,false,18:14
+548,Dasyurus maculatus,Japanese,Upper West Side,Expensive,3.86,true,12:58
+549,Phoeniconaias minor,Chinese,Chinatown,Cheap,4.75,true,21:03
+550,Larus dominicanus,Sandwiches,SoHo,Medium,1.98,false,18:29
+551,Himantopus himantopus,Pizza,Upper West Side,Medium,3.07,false,19:37
+552,Pelecans onocratalus,Pizza,Harlem,Cheap,1.99,true,16:01
+553,Haematopus ater,Japanese,Upper East Side,Medium,1.41,true,11:01
+554,Camelus dromedarius,Korean,East Village,Cheap,2.1,true,11:25
+555,Phalacrocorax carbo,Korean,Chinatown,Expensive,3.91,true,18:46
+556,Manouria emys,Pizza,Harlem,Expensive,3.06,false,10:25
+557,Axis axis,Burger,Upper East Side,Expensive,4.71,true,15:29
+558,unavailable,Vegan,Harlem,Medium,2.25,false,13:33
+559,Sciurus vulgaris,Pizza,Chinatown,Medium,1.17,true,17:59
+560,Larus fuliginosus,Mediterranean,SoHo,Cheap,4.16,false,13:02
+561,Climacteris melanura,Burger,East Harlem,Medium,0.24,true,11:15
+562,Mungos mungo,Sandwiches,East Village,Cheap,1.23,false,18:17
+563,Columba livia,Korean,Upper West Side,Expensive,0.23,false,10:04
+564,Corvus brachyrhynchos,Japanese,Harlem,Medium,1.5,false,18:43
+565,Ciconia ciconia,Pasta,SoHo,Expensive,3.27,true,21:43
+566,Tauraco porphyrelophus,Salads,Financial District,Medium,0.89,true,12:12
+567,Paroaria gularis,Dinner,East Harlem,Medium,1.26,false,15:27
+568,Eremophila alpestris,Fast Food,East Village,Cheap,4.46,false,16:13
+569,Chelodina longicollis,Pizza,East Village,Cheap,3.42,true,9:22
+570,Streptopelia decipiens,Mediterranean,Upper East Side,Medium,2.14,false,18:54
+571,Mazama americana,Japanese,Upper East Side,Cheap,0.56,true,18:54
+572,Felis silvestris lybica,Salads,Chinatown,Medium,0.87,true,11:01
+573,Fulica cristata,Pizza,Upper East Side,Medium,4.89,true,22:35
+574,Equus burchelli,Pasta,Upper East Side,Expensive,3.25,false,19:19
+575,Cervus duvauceli,Japanese,Upper East Side,Cheap,4.62,true,13:39
+576,Himantopus himantopus,Vegan,Financial District,Cheap,3.1,false,9:32
+577,Cacatua tenuirostris,Korean,Harlem,Medium,1.51,true,15:13
+578,Neotis denhami,Sandwiches,Upper East Side,Expensive,1.46,false,21:39
+579,Pytilia melba,Chinese,Chinatown,Expensive,3.05,true,13:10
+580,Lutra canadensis,Fast Food,Upper West Side,Medium,0.47,true,19:45
+581,Felis concolor,Pasta,Harlem,Expensive,0.71,false,13:29
+582,Eremophila alpestris,Vegan,East Harlem,Cheap,0.44,true,21:59
+583,Carduelis uropygialis,Korean,Chinatown,Medium,4.17,false,11:01
+584,Kobus leche robertsi,Korean,East Village,Cheap,4.93,false,19:31
+585,Chauna torquata,Café,SoHo,Expensive,0.44,false,11:20
+586,Tachybaptus ruficollis,Korean,Upper West Side,Medium,2.56,true,17:18
+587,Castor canadensis,Pizza,Upper East Side,Medium,1.22,true,19:40
+588,Funambulus pennati,Pizza,SoHo,Medium,0.14,false,14:00
+589,Isoodon obesulus,Café,Harlem,Expensive,0.45,true,11:08
+590,Nasua nasua,Café,Upper West Side,Expensive,2.69,true,14:22
+591,Cynictis penicillata,Mediterranean,Harlem,Medium,0.85,false,11:29
+592,Ovis ammon,Japanese,Financial District,Medium,0.4,false,22:34
+593,Phoenicopterus ruber,Café,Chinatown,Medium,2.02,true,12:41
+594,Hippotragus niger,Fast Food,East Harlem,Cheap,2.17,true,15:31
+595,Trichoglossus haematodus moluccanus,Salads,Upper West Side,Expensive,1.39,false,10:58
+596,Upupa epops,Sandwiches,Chinatown,Expensive,1.66,true,15:11
+597,Casmerodius albus,Pizza,Upper East Side,Medium,4.15,true,20:40
+598,Mycteria ibis,Japanese,Upper East Side,Expensive,0.86,true,15:50
+599,Lemur catta,Japanese,Harlem,Medium,2.75,false,20:37
+600,Echimys chrysurus,Mediterranean,Financial District,Medium,1.62,true,14:14
+601,Aonyx capensis,Café,Financial District,Medium,3.85,false,22:12
+602,Marmota caligata,Japanese,Upper East Side,Expensive,4.68,true,11:21
+603,Bradypus tridactylus,Mediterranean,East Village,Expensive,3.36,false,10:13
+604,Loris tardigratus,Chinese,Financial District,Expensive,4.15,false,13:39
+605,Bubulcus ibis,Salads,Upper East Side,Cheap,1.38,true,14:54
+606,Snycerus caffer,Pasta,Upper West Side,Medium,3.52,false,11:44
+607,Laniaurius atrococcineus,Korean,Chinatown,Medium,4.32,true,21:14
+608,Pteronura brasiliensis,Sandwiches,East Harlem,Medium,2.08,true,15:03
+609,Pteronura brasiliensis,Japanese,East Village,Cheap,2.64,true,15:25
+610,Genetta genetta,Japanese,SoHo,Cheap,3.73,true,20:14
+611,Thamnolaea cinnmomeiventris,Pasta,Upper West Side,Cheap,3.83,true,10:20
+612,Oryx gazella,Sandwiches,Harlem,Cheap,3.58,true,18:38
+613,Butorides striatus,Café,Upper West Side,Medium,4.53,true,15:47
+614,Alopochen aegyptiacus,Pizza,SoHo,Medium,3.22,true,21:32
+615,Tenrec ecaudatus,Korean,East Village,Medium,4.12,false,19:58
+616,Haematopus ater,Burger,SoHo,Expensive,1.79,false,11:20
+617,Haematopus ater,Pizza,East Harlem,Cheap,1.65,false,12:39
+618,Ara ararauna,Fast Food,Financial District,Cheap,2.88,true,21:53
+619,Irania gutteralis,Burger,Upper West Side,Cheap,4.26,true,15:15
+620,Bubo virginianus,Pasta,Financial District,Medium,2.79,false,13:30
+621,Zalophus californicus,Burger,Harlem,Expensive,4.32,true,22:06
+622,Nesomimus trifasciatus,Salads,East Harlem,Expensive,0.97,false,16:26
+623,Cyrtodactylus louisiadensis,Café,East Village,Expensive,3.51,false,17:01
+624,Myotis lucifugus,Café,Financial District,Expensive,2.97,true,11:17
+625,Proteles cristatus,Dinner,Upper West Side,Medium,4.7,false,12:04
+626,Vanessa indica,Mediterranean,Upper East Side,Expensive,3.27,true,12:22
+627,Melophus lathami,Japanese,Chinatown,Medium,2.81,true,14:05
+628,Pycnonotus barbatus,Dinner,Chinatown,Cheap,3.51,true,20:39
+629,Melophus lathami,Salads,Upper West Side,Cheap,1.74,true,22:35
+630,Zosterops pallidus,Dinner,Chinatown,Cheap,0.5,false,15:28
+631,Felis rufus,Café,Financial District,Cheap,3.37,true,11:46
+632,Bubo virginianus,Burger,Harlem,Expensive,1.85,true,19:59
+633,Mephitis mephitis,Korean,Harlem,Medium,2.0,true,19:06
+634,Pelecanus conspicillatus,Café,Upper East Side,Medium,4.4,false,10:52
+635,Cebus apella,Sandwiches,Financial District,Medium,2.11,true,20:52
+636,unavailable,Mediterranean,Upper West Side,Expensive,0.59,true,21:35
+637,Ursus americanus,Dinner,SoHo,Expensive,3.44,true,12:57
+638,Tenrec ecaudatus,Salads,SoHo,Cheap,3.01,false,15:25
+639,Aegypius occipitalis,Salads,Upper East Side,Cheap,2.76,false,12:09
+640,Sarkidornis melanotos,Mediterranean,East Village,Cheap,0.35,true,22:08
+641,Tragelaphus angasi,Pasta,East Harlem,Cheap,3.2,true,21:16
+642,Alligator mississippiensis,Dinner,Harlem,Expensive,0.45,false,11:51
+643,Nucifraga columbiana,Mediterranean,East Harlem,Medium,4.87,false,10:06
+644,Dicrostonyx groenlandicus,Vegan,East Harlem,Cheap,1.48,false,18:33
+645,Cracticus nigroagularis,Dinner,Upper West Side,Cheap,0.3,false,20:52
+646,Varanus salvator,Chinese,Financial District,Expensive,4.34,false,12:50
+647,Vanessa indica,Vegan,East Harlem,Expensive,4.97,true,20:10
+648,Bettongia penicillata,Chinese,East Village,Expensive,1.32,true,11:01
+649,Cervus duvauceli,Burger,Upper East Side,Cheap,4.08,true,19:19
+650,Paraxerus cepapi,Chinese,Upper East Side,Medium,1.36,false,14:46
+651,Vulpes chama,Pasta,East Village,Medium,4.31,false,19:35
+652,Vulpes vulpes,Pizza,Upper West Side,Cheap,1.9,true,14:36
+653,Antidorcas marsupialis,Sandwiches,Harlem,Expensive,4.58,false,21:42
+654,Naja haje,Pizza,SoHo,Expensive,2.62,false,12:18
+655,Naja nivea,Dinner,Chinatown,Medium,2.06,true,9:48
+656,Dusicyon thous,Mediterranean,Upper West Side,Expensive,0.08,false,10:09
+657,Loxodonta africana,Japanese,Upper East Side,Cheap,3.31,false,13:57
+658,Neophoca cinerea,Dinner,Upper East Side,Cheap,2.24,true,9:40
+659,Creagrus furcatus,Fast Food,East Village,Medium,3.88,false,20:18
+660,Ammospermophilus nelsoni,Fast Food,East Harlem,Expensive,3.53,false,21:47
+661,Naja nivea,Burger,Financial District,Expensive,1.8,false,20:27
+662,Damaliscus dorcas,Vegan,East Harlem,Medium,3.62,false,19:39
+663,Haliaeetus leucocephalus,Fast Food,Upper West Side,Medium,1.37,true,15:04
+664,Heloderma horridum,Sandwiches,Chinatown,Expensive,3.1,true,13:52
+665,Ciconia ciconia,Chinese,Upper East Side,Cheap,3.23,false,12:44
+666,Rangifer tarandus,Burger,Financial District,Expensive,2.96,false,12:12
+667,Ictonyx striatus,Fast Food,Harlem,Medium,4.56,true,9:32
+668,Milvus migrans,Vegan,Upper East Side,Medium,0.84,true,18:51
+669,Perameles nasuta,Pizza,Financial District,Cheap,0.94,false,22:52
+670,Pseudalopex gymnocercus,Café,SoHo,Expensive,2.45,false,21:42
+671,Hippotragus equinus,Salads,East Harlem,Cheap,4.97,true,19:25
+672,Phoenicopterus ruber,Japanese,Harlem,Medium,3.47,true,13:29
+673,Ninox superciliaris,Pizza,SoHo,Medium,1.87,true,22:27
+674,Cracticus nigroagularis,Mediterranean,Harlem,Medium,4.67,false,17:47
+675,Sciurus vulgaris,Japanese,SoHo,Expensive,4.75,false,16:00
+676,Ciconia ciconia,Pizza,East Harlem,Medium,2.56,false,13:33
+677,Oreamnos americanus,Café,East Harlem,Expensive,1.14,false,14:14
+678,Leptoptilus dubius,Sandwiches,Chinatown,Cheap,1.5,false,13:28
+679,Gerbillus sp.,Burger,SoHo,Expensive,4.66,true,19:31
+680,Ardea cinerea,Dinner,East Village,Medium,4.28,false,21:12
+681,Macaca nemestrina,Salads,SoHo,Expensive,3.73,true,16:18
+682,Ardea golieth,Pizza,Harlem,Cheap,0.3,false,22:12
+683,Phascogale calura,Fast Food,Chinatown,Cheap,2.25,true,11:43
+684,Felis concolor,Dinner,Chinatown,Cheap,1.79,false,12:12
+685,Trichechus inunguis,Mediterranean,Upper West Side,Expensive,0.68,true,21:47
+686,Hippopotamus amphibius,Dinner,Upper East Side,Expensive,4.42,true,9:51
+687,Naja haje,Pasta,East Harlem,Expensive,0.24,false,16:41
+688,Damaliscus dorcas,Pizza,Chinatown,Expensive,3.56,true,11:21
+689,Trichoglossus chlorolepidotus,Sandwiches,Financial District,Expensive,2.32,true,21:25
+690,Phalaropus fulicarius,Mediterranean,Harlem,Cheap,2.08,true,12:57
+691,Sciurus vulgaris,Burger,Upper West Side,Expensive,3.86,false,21:22
+692,Phalacrocorax niger,Sandwiches,East Harlem,Medium,0.36,true,15:41
+693,Sarkidornis melanotos,Japanese,Harlem,Cheap,1.02,true,13:24
+694,Oxybelis fulgidus,Vegan,Upper East Side,Cheap,0.57,false,22:05
+695,Panthera leo,Burger,Upper West Side,Medium,2.9,true,13:57
+696,Merops nubicus,Café,Harlem,Expensive,0.27,false,22:36
+697,Chloephaga melanoptera,Pizza,East Village,Medium,3.84,false,11:00
+698,Notechis semmiannulatus,Sandwiches,SoHo,Expensive,0.29,false,21:20
+699,Tadorna tadorna,Dinner,Chinatown,Medium,2.84,false,22:52
+700,Phalacrocorax brasilianus,Sandwiches,Chinatown,Cheap,1.15,false,10:06
+701,Terathopius ecaudatus,Mediterranean,SoHo,Expensive,1.42,false,19:49
+702,Cracticus nigroagularis,Café,East Harlem,Medium,1.41,true,18:57
+703,Actophilornis africanus,Korean,East Harlem,Expensive,3.48,false,20:14
+704,Gyps bengalensis,Burger,Harlem,Medium,4.31,false,18:23
+705,Threskionis aethiopicus,Korean,Financial District,Medium,2.81,false,14:59
+706,Scolopax minor,Salads,Financial District,Expensive,0.13,false,13:16
+707,Coluber constrictor,Pasta,East Harlem,Cheap,2.59,false,17:45
+708,Papio cynocephalus,Japanese,Financial District,Medium,4.81,false,14:10
+709,Lycosa godeffroyi,Café,East Harlem,Cheap,1.11,true,19:57
+710,Spermophilus parryii,Pasta,East Harlem,Expensive,1.35,false,14:09
+711,Dasyurus maculatus,Burger,Financial District,Cheap,3.88,true,20:13
+712,Callipepla gambelii,Pizza,East Village,Expensive,4.74,false,9:19
+713,Manouria emys,Salads,Upper East Side,Expensive,1.74,true,22:28
+714,Bucorvus leadbeateri,Korean,SoHo,Medium,0.59,false,18:02
+715,Mungos mungo,Pasta,Upper West Side,Expensive,4.24,false,11:51
+716,Coracias caudata,Pasta,Chinatown,Expensive,4.47,true,16:27
+717,Coracias caudata,Fast Food,East Harlem,Cheap,0.64,false,21:53
+718,Phascogale calura,Sandwiches,East Harlem,Cheap,3.01,true,15:17
+719,Bubo sp.,Salads,Financial District,Cheap,2.33,false,20:05
+720,Paraxerus cepapi,Japanese,East Village,Expensive,4.96,true,11:47
+721,Nectarinia chalybea,Dinner,Upper East Side,Expensive,4.92,false,12:10
+722,Dasyprocta leporina,Korean,Financial District,Expensive,1.24,true,15:11
+723,Acinynox jubatus,Korean,Financial District,Expensive,3.66,true,18:34
+724,Ardea golieth,Café,East Village,Medium,2.76,true,18:21
+725,Macaca mulatta,Korean,Financial District,Cheap,1.46,false,20:24
+726,Graspus graspus,Sandwiches,Financial District,Medium,4.45,true,15:07
+727,Dacelo novaeguineae,Fast Food,Upper East Side,Medium,3.03,false,11:47
+728,Platalea leucordia,Japanese,Upper West Side,Medium,2.68,true,14:22
+729,Spheniscus mendiculus,Salads,Harlem,Cheap,4.62,true,16:49
+730,Passer domesticus,Café,SoHo,Expensive,4.75,false,17:04
+731,Centrocercus urophasianus,Pizza,Harlem,Expensive,2.86,true,19:41
+732,Nesomimus trifasciatus,Burger,Harlem,Cheap,2.84,false,19:13
+733,Anser caerulescens,Sandwiches,East Harlem,Cheap,4.36,true,11:15
+734,Kobus defassa,Pasta,East Harlem,Medium,0.31,true,13:45
+735,Gekko gecko,Korean,East Village,Expensive,4.55,false,20:33
+736,Gyps bengalensis,Burger,East Harlem,Expensive,0.03,true,11:17
+737,Bubo virginianus,Fast Food,East Harlem,Medium,0.73,true,17:56
+738,Libellula quadrimaculata,Japanese,East Harlem,Cheap,4.26,true,22:12
+739,Lycaon pictus,Café,Upper East Side,Cheap,0.51,true,11:33
+740,unavailable,Sandwiches,East Village,Medium,2.59,false,19:56
+741,Manouria emys,Korean,Upper East Side,Expensive,4.58,true,19:20
+742,Tauraco porphyrelophus,Pizza,Harlem,Cheap,0.87,false,9:19
+743,Macaca mulatta,Burger,East Harlem,Medium,0.87,true,21:29
+744,Nyctereutes procyonoides,Dinner,Upper West Side,Medium,4.02,true,18:21
+745,Bubulcus ibis,Mediterranean,Upper East Side,Expensive,3.03,false,19:46
+746,Paroaria gularis,Salads,East Village,Medium,3.56,true,15:09
+747,Madoqua kirkii,Vegan,Harlem,Cheap,0.44,true,17:48
+748,Sciurus niger,Fast Food,Financial District,Cheap,3.5,false,22:47
+749,Dicrostonyx groenlandicus,Korean,East Village,Cheap,4.09,true,20:47
+750,Laniaurius atrococcineus,Salads,Upper East Side,Expensive,3.5,false,22:36
+751,Varanus komodensis,Café,Upper West Side,Expensive,4.06,false,13:04
+752,Heloderma horridum,Japanese,East Village,Expensive,3.88,false,12:01
+753,Cercatetus concinnus,Korean,East Village,Expensive,1.84,false,19:54
+754,Anastomus oscitans,Vegan,East Village,Medium,3.63,false,12:51
+755,Tragelaphus scriptus,Sandwiches,East Harlem,Cheap,4.58,true,17:17
+756,Aonyx cinerea,Burger,Harlem,Expensive,3.85,true,19:35
+757,Actophilornis africanus,Mediterranean,East Village,Medium,1.35,true,18:10
+758,Sceloporus magister,Dinner,East Harlem,Medium,2.58,true,19:48
+759,Geochelone elephantopus,Chinese,Upper East Side,Medium,2.8,true,16:35
+760,Cervus duvauceli,Sandwiches,Financial District,Cheap,4.13,true,21:41
+761,Varanus sp.,Sandwiches,Chinatown,Expensive,4.54,true,10:37
+762,Papio cynocephalus,Salads,Financial District,Expensive,3.45,false,16:41
+763,Deroptyus accipitrinus,Sandwiches,Upper West Side,Medium,4.56,false,17:45
+764,Mazama gouazoubira,Pizza,Upper East Side,Medium,2.79,false,16:59
+765,Prionace glauca,Japanese,SoHo,Cheap,3.29,false,11:38
+766,Madoqua kirkii,Vegan,Upper West Side,Expensive,2.72,false,18:19
+767,Cebus albifrons,Burger,East Village,Expensive,4.74,true,16:44
+768,Gyps bengalensis,Japanese,Upper East Side,Medium,0.06,true,20:35
+769,Acrobates pygmaeus,Pasta,Financial District,Expensive,1.59,false,21:44
+770,Philetairus socius,Japanese,East Harlem,Expensive,3.69,true,17:09
+771,Chelodina longicollis,Chinese,Harlem,Expensive,0.62,true,10:58
+772,Potos flavus,Pizza,Harlem,Expensive,2.21,true,16:06
+773,Terrapene carolina,Chinese,SoHo,Cheap,1.72,true,19:45
+774,Eudromia elegans,Vegan,Harlem,Cheap,4.58,true,10:58
+775,unavailable,Sandwiches,Harlem,Medium,1.6,true,13:07
+776,Trichoglossus chlorolepidotus,Dinner,Upper West Side,Expensive,2.03,true,14:16
+777,Rhabdomys pumilio,Pasta,Chinatown,Expensive,0.39,false,15:06
+778,Macropus rufogriseus,Japanese,Harlem,Expensive,2.36,true,21:43
+779,Acrobates pygmaeus,Dinner,Chinatown,Cheap,0.04,true,15:00
+780,Pelecans onocratalus,Chinese,Upper West Side,Expensive,1.67,true,14:44
+781,Tayassu tajacu,Burger,SoHo,Expensive,1.46,false,20:10
+782,Spermophilus lateralis,Vegan,Upper West Side,Medium,0.15,true,10:22
+783,Otaria flavescens,Mediterranean,SoHo,Expensive,1.1,true,21:21
+784,Haliaetus leucogaster,Japanese,Upper West Side,Cheap,3.01,false,18:52
+785,Colaptes campestroides,Dinner,Financial District,Medium,4.72,false,10:43
+786,Anastomus oscitans,Dinner,East Harlem,Expensive,3.02,false,13:56
+787,Panthera leo persica,Burger,SoHo,Cheap,2.62,true,12:15
+788,Litrocranius walleri,Chinese,Chinatown,Cheap,3.61,false,18:37
+789,Canis lupus lycaon,Dinner,East Harlem,Medium,2.3,false,15:27
+790,Marmota monax,Chinese,East Harlem,Expensive,4.91,false,9:08
+791,Lasiorhinus latifrons,Korean,Chinatown,Cheap,0.33,false,9:18
+792,Phaethon aethereus,Sandwiches,Upper West Side,Medium,0.49,true,11:09
+793,Heloderma horridum,Pizza,East Village,Cheap,2.66,true,11:02
+794,Haliaeetus leucocephalus,Café,Upper West Side,Expensive,1.95,true,17:50
+795,Eurocephalus anguitimens,Vegan,East Village,Cheap,1.82,false,21:23
+796,Eutamias minimus,Pizza,Upper East Side,Medium,1.87,true,21:38
+797,Lasiodora parahybana,Salads,Upper East Side,Expensive,2.22,true,18:54
+798,Papio cynocephalus,Fast Food,Harlem,Expensive,1.2,false,15:59
+799,Canis dingo,Korean,East Village,Medium,4.86,true,21:36
+800,Laniarius ferrugineus,Mediterranean,Upper East Side,Expensive,4.22,false,19:30
+801,Tiliqua scincoides,Korean,SoHo,Cheap,3.92,true,16:52
+802,Zalophus californicus,Café,SoHo,Medium,4.99,true,20:16
+803,Vanellus sp.,Japanese,SoHo,Medium,2.98,true,13:51
+804,Tenrec ecaudatus,Japanese,Upper West Side,Cheap,1.51,true,18:13
+805,Laniarius ferrugineus,Burger,SoHo,Cheap,0.38,false,19:26
+806,Grus canadensis,Pizza,Upper West Side,Cheap,2.43,true,13:04
+807,Petaurus breviceps,Mediterranean,Chinatown,Expensive,3.45,true,22:01
+808,Ephippiorhynchus mycteria,Dinner,East Harlem,Medium,4.79,false,13:08
+809,Limosa haemastica,Dinner,East Harlem,Cheap,2.91,false,17:08
+810,Sula dactylatra,Chinese,SoHo,Medium,0.03,true,19:20
+811,Toxostoma curvirostre,Pasta,East Village,Expensive,0.87,true,10:18
+812,Sitta canadensis,Sandwiches,Chinatown,Cheap,3.07,true,21:34
+813,Haliaetus vocifer,Pasta,East Harlem,Cheap,0.42,false,13:13
+814,Pseudalopex gymnocercus,Sandwiches,East Village,Cheap,1.83,true,15:39
+815,Haliaeetus leucocephalus,Café,Upper West Side,Expensive,0.16,true,20:14
+816,Gorilla gorilla,Sandwiches,Upper West Side,Cheap,4.87,true,13:34
+817,Pytilia melba,Japanese,Upper East Side,Cheap,0.39,true,18:46
+818,unavailable,Dinner,SoHo,Medium,4.02,false,21:43
+819,Gorilla gorilla,Salads,Upper West Side,Medium,0.45,true,11:47
+820,Lycaon pictus,Vegan,Financial District,Cheap,0.89,true,17:35
+821,Phalacrocorax brasilianus,Dinner,Upper West Side,Cheap,4.13,true,15:42
+822,Psophia viridis,Burger,Harlem,Medium,2.34,true,9:04
+823,Crax sp.,Mediterranean,East Village,Cheap,0.96,true,12:01
+824,Papio cynocephalus,Mediterranean,Financial District,Medium,1.7,true,22:56
+825,Neotis denhami,Japanese,Upper West Side,Expensive,3.28,true,18:16
+826,Pitangus sulphuratus,Café,East Harlem,Expensive,2.32,true,21:04
+827,Gymnorhina tibicen,Korean,SoHo,Cheap,2.38,false,16:32
+828,Spizaetus coronatus,Vegan,Chinatown,Cheap,3.74,false,9:08
+829,Madoqua kirkii,Pasta,Harlem,Expensive,1.25,false,17:29
+830,Vanellus chilensis,Café,East Harlem,Cheap,2.79,false,9:58
+831,Ursus maritimus,Pasta,Upper East Side,Medium,3.52,false,14:48
+832,Choloepus hoffmani,Chinese,Upper East Side,Medium,2.71,true,13:02
+833,Alcelaphus buselaphus caama,Sandwiches,Chinatown,Expensive,4.26,false,12:20
+834,Geochelone elephantopus,Pizza,Upper West Side,Cheap,0.37,false,13:38
+835,Anastomus oscitans,Vegan,Financial District,Expensive,4.47,false,17:09
+836,Tiliqua scincoides,Dinner,East Harlem,Expensive,0.3,true,12:45
+837,Sus scrofa,Dinner,Upper West Side,Cheap,3.45,false,17:56
+838,Columba palumbus,Pizza,Chinatown,Expensive,4.65,false,14:17
+839,Ardea golieth,Burger,SoHo,Cheap,4.61,false,18:46
+840,Nyctanassa violacea,Fast Food,Chinatown,Medium,3.64,true,21:02
+841,Funambulus pennati,Pizza,East Harlem,Expensive,1.85,false,14:54
+842,Plectopterus gambensis,Dinner,Chinatown,Expensive,1.34,true,9:09
+843,Ara macao,Pizza,Chinatown,Expensive,1.94,true,15:17
+844,Tetracerus quadricornis,Sandwiches,Harlem,Expensive,3.19,true,15:35
+845,Gekko gecko,Café,Chinatown,Expensive,3.26,false,10:49
+846,Cervus canadensis,Pasta,Upper West Side,Medium,4.06,false,12:29
+847,Erinaceus frontalis,Salads,East Village,Medium,1.81,true,11:04
+848,Macropus agilis,Salads,Upper East Side,Expensive,2.6,true,18:58
+849,Ardea cinerea,Fast Food,East Village,Medium,1.22,true,11:13
+850,Ctenophorus ornatus,Mediterranean,East Harlem,Expensive,0.1,true,15:12
+851,Aegypius tracheliotus,Japanese,East Village,Cheap,3.23,false,14:17
+852,Choloepus hoffmani,Burger,SoHo,Cheap,1.78,true,11:37
+853,Crotaphytus collaris,Fast Food,Harlem,Expensive,4.9,true,13:03
+854,Centrocercus urophasianus,Pizza,Upper East Side,Medium,1.75,true,14:22
+855,Heloderma horridum,Vegan,Chinatown,Cheap,4.59,true,11:22
+856,Terathopius ecaudatus,Japanese,SoHo,Medium,1.13,true,21:24
+857,Dicrurus adsimilis,Korean,Financial District,Medium,4.98,false,19:21
+858,Sula nebouxii,Dinner,Chinatown,Medium,2.21,false,20:50
+859,Ratufa indica,Burger,Financial District,Expensive,1.26,true,9:13
+860,Castor canadensis,Sandwiches,East Harlem,Cheap,3.11,false,14:06
+861,Aonyx capensis,Sandwiches,East Village,Cheap,0.66,true,19:30
+862,Lemur fulvus,Korean,SoHo,Medium,2.04,false,13:20
+863,Tockus flavirostris,Pizza,Chinatown,Expensive,2.87,true,9:56
+864,Balearica pavonina,Sandwiches,Financial District,Expensive,4.41,true,13:06
+865,Bassariscus astutus,Salads,Financial District,Cheap,4.01,true,20:27
+866,Halcyon smyrnesis,Pasta,SoHo,Expensive,2.87,false,15:22
+867,Coluber constrictor,Vegan,Chinatown,Cheap,0.85,false,19:24
+868,Marmota monax,Fast Food,Financial District,Expensive,1.75,false,11:05
+869,Ctenophorus ornatus,Sandwiches,East Harlem,Medium,4.66,false,21:42
+870,Alectura lathami,Fast Food,Upper East Side,Cheap,2.22,false,15:03
+871,Vulpes vulpes,Chinese,SoHo,Expensive,2.02,false,15:37
+872,Hippotragus niger,Chinese,Harlem,Medium,3.54,false,20:27
+873,Rana sp.,Burger,SoHo,Medium,1.75,false,19:49
+874,Centrocercus urophasianus,Sandwiches,SoHo,Cheap,0.33,false,11:05
+875,Theropithecus gelada,Sandwiches,Upper East Side,Expensive,2.33,false,19:07
+876,Hystrix cristata,Pizza,Harlem,Medium,0.85,false,19:56
+877,Mellivora capensis,Chinese,Harlem,Expensive,0.31,true,20:21
+878,Tockus erythrorhyncus,Pizza,SoHo,Cheap,0.31,false,11:16
+879,Mirounga angustirostris,Fast Food,Financial District,Expensive,2.88,true,16:45
+880,Bucephala clangula,Dinner,Chinatown,Expensive,3.48,false,18:31
+881,Phalacrocorax carbo,Vegan,Upper East Side,Medium,3.95,false,22:27
+882,Hystrix cristata,Sandwiches,Upper West Side,Medium,0.33,true,19:23
+883,Eubalaena australis,Sandwiches,Harlem,Cheap,2.48,false,13:48
+884,Antilocapra americana,Salads,Upper East Side,Expensive,0.2,false,15:43
+885,Meles meles,Mediterranean,Harlem,Medium,1.31,false,17:11
+886,Lepus townsendii,Pasta,Financial District,Expensive,2.79,false,10:41
+887,Galago crassicaudataus,Café,Financial District,Cheap,1.48,true,20:43
+888,Nyctanassa violacea,Pizza,Chinatown,Expensive,0.1,true,16:50
+889,Lamprotornis chalybaeus,Mediterranean,East Harlem,Medium,1.79,true,15:08
+890,Columba livia,Vegan,Financial District,Expensive,3.03,true,13:57
+891,Macropus agilis,Mediterranean,Upper West Side,Medium,0.16,true,21:55
+892,Equus burchelli,Korean,Harlem,Expensive,0.04,true,12:31
+893,Pycnonotus nigricans,Fast Food,Upper East Side,Cheap,2.54,false,10:10
+894,Milvago chimachima,Sandwiches,Upper West Side,Expensive,4.74,true,13:09
+895,Lasiorhinus latifrons,Japanese,Upper West Side,Medium,4.8,false,14:16
+896,Lybius torquatus,Mediterranean,Upper West Side,Expensive,1.44,true,16:59
+897,Bison bison,Vegan,SoHo,Cheap,4.05,false,11:23
+898,unavailable,Fast Food,Upper East Side,Expensive,1.5,true,11:25
+899,Eudromia elegans,Japanese,East Village,Expensive,0.3,false,13:55
+900,Ctenophorus ornatus,Japanese,East Village,Medium,3.22,false,12:43
+901,Corythornis cristata,Mediterranean,Financial District,Expensive,0.02,true,18:34
+902,Diceros bicornis,Chinese,East Harlem,Expensive,2.9,true,22:06
+903,Uraeginthus angolensis,Fast Food,Chinatown,Expensive,0.47,true,15:29
+904,Heloderma horridum,Japanese,Upper West Side,Cheap,0.57,false,13:26
+905,Phalaropus lobatus,Mediterranean,East Village,Expensive,0.68,false,17:28
+906,Speothos vanaticus,Japanese,SoHo,Cheap,4.36,false,14:02
+907,Macropus rufus,Mediterranean,Financial District,Medium,4.92,false,18:46
+908,Dicrurus adsimilis,Japanese,East Harlem,Cheap,3.86,true,11:44
+909,Anastomus oscitans,Pasta,Financial District,Expensive,1.66,false,15:44
+910,Chlidonias leucopterus,Chinese,Harlem,Expensive,3.9,true,11:20
+911,Uraeginthus angolensis,Korean,Upper West Side,Cheap,1.09,true,10:58
+912,Neophoca cinerea,Japanese,Chinatown,Medium,0.51,true,9:49
+913,Egretta thula,Pasta,Harlem,Medium,3.47,false,18:45
+914,Bubalus arnee,Mediterranean,Upper West Side,Medium,3.36,true,14:28
+915,Phalaropus lobatus,Fast Food,Harlem,Medium,4.1,false,21:04
+916,Amazona sp.,Mediterranean,East Harlem,Cheap,3.08,true,9:07
+917,Ardea cinerea,Pizza,Upper West Side,Medium,3.77,false,18:33
+918,Phascogale calura,Burger,Harlem,Cheap,1.59,true,9:14
+919,Diceros bicornis,Fast Food,SoHo,Cheap,2.76,true,14:17
+920,Mazama americana,Korean,Chinatown,Medium,2.63,false,22:12
+921,Giraffe camelopardalis,Salads,Upper West Side,Expensive,4.47,true,16:32
+922,Macaca fuscata,Pasta,Harlem,Medium,2.27,true,22:51
+923,Macropus agilis,Pasta,East Harlem,Medium,3.51,false,15:08
+924,Erinaceus frontalis,Pasta,SoHo,Medium,0.87,true,22:52
+925,Gyps fulvus,Mediterranean,Upper West Side,Expensive,0.87,true,16:01
+926,Cervus unicolor,Japanese,SoHo,Cheap,1.32,true,14:53
+927,Spermophilus parryii,Salads,Upper West Side,Expensive,3.54,true,17:50
+928,Casmerodius albus,Salads,East Village,Cheap,3.24,true,21:51
+929,Lorythaixoides concolor,Vegan,SoHo,Medium,0.2,false,13:26
+930,Phoca vitulina,Burger,SoHo,Cheap,1.18,false,21:03
+931,Ara chloroptera,Sandwiches,SoHo,Cheap,3.06,true,13:25
+932,Zenaida asiatica,Japanese,Chinatown,Expensive,0.44,false,15:22
+933,Ratufa indica,Pasta,SoHo,Cheap,4.37,false,22:48
+934,Corvus albus,Mediterranean,East Village,Cheap,2.7,true,18:08
+935,Ephippiorhynchus mycteria,Japanese,Upper East Side,Expensive,4.86,false,21:04
+936,Pavo cristatus,Fast Food,Upper West Side,Cheap,4.52,true,11:35
+937,Petaurus norfolcensis,Chinese,East Village,Expensive,3.71,false,10:13
+938,Mazama gouazoubira,Japanese,SoHo,Expensive,0.35,false,12:58
+939,Dasyurus maculatus,Burger,East Village,Expensive,0.64,false,13:04
+940,Aquila chrysaetos,Japanese,Harlem,Medium,4.3,true,14:20
+941,Ornithorhynchus anatinus,Fast Food,East Village,Expensive,3.85,true,19:13
+942,Motacilla aguimp,Chinese,Chinatown,Expensive,1.58,true,20:53
+943,Anthropoides paradisea,Japanese,Chinatown,Medium,0.66,false,22:01
+944,Pteropus rufus,Sandwiches,Upper West Side,Medium,3.04,true,18:36
+945,Cygnus buccinator,Burger,Harlem,Expensive,1.07,true,18:11
+946,Choriotis kori,Korean,Upper East Side,Medium,1.51,false,18:33
+947,Canis aureus,Chinese,East Harlem,Cheap,4.32,false,18:04
+948,Ramphastos tucanus,Korean,East Harlem,Cheap,2.69,true,12:26
+949,Cyrtodactylus louisiadensis,Pasta,East Harlem,Cheap,1.15,true,20:11
+950,Vulpes chama,Vegan,SoHo,Expensive,4.48,true,15:59
+951,Otaria flavescens,Chinese,Harlem,Expensive,4.0,false,17:45
+952,Rangifer tarandus,Sandwiches,East Village,Expensive,0.2,false,15:02
+953,Anas punctata,Pizza,Upper West Side,Expensive,3.09,true,17:35
+954,Gyps bengalensis,Vegan,SoHo,Expensive,2.58,true,9:51
+955,Varanus salvator,Fast Food,Financial District,Medium,1.4,true,12:09
+956,Epicrates cenchria maurus,Salads,Harlem,Medium,3.16,false,10:34
+957,Ciconia ciconia,Fast Food,East Harlem,Expensive,1.16,false,9:41
+958,Cordylus giganteus,Salads,East Harlem,Cheap,3.65,false,12:40
+959,Neophoca cinerea,Burger,Upper East Side,Expensive,3.83,true,10:25
+960,Otaria flavescens,Pasta,SoHo,Expensive,4.36,false,22:55
+961,Bettongia penicillata,Sandwiches,Upper East Side,Cheap,1.65,false,18:47
+962,Arctogalidia trivirgata,Vegan,East Village,Medium,1.03,true,16:51
+963,Macropus agilis,Vegan,East Harlem,Medium,3.98,true,14:20
+964,Agelaius phoeniceus,Mediterranean,SoHo,Cheap,1.01,false,13:03
+965,Otaria flavescens,Pasta,Harlem,Expensive,1.67,false,17:32
+966,Macaca radiata,Burger,East Harlem,Expensive,3.86,false,13:59
+967,Bos frontalis,Japanese,Harlem,Expensive,0.82,false,20:53
+968,Ovis canadensis,Mediterranean,East Village,Medium,0.46,true,19:46
+969,Phalacrocorax carbo,Pasta,East Village,Cheap,3.48,false,10:34
+970,Eremophila alpestris,Vegan,SoHo,Cheap,0.46,true,14:12
+971,Falco mexicanus,Chinese,East Village,Expensive,4.35,true,10:20
+972,Canis aureus,Vegan,Chinatown,Expensive,3.95,false,10:57
+973,Psophia viridis,Fast Food,Upper West Side,Cheap,4.42,true,14:50
+974,Pseudoleistes virescens,Fast Food,Financial District,Cheap,4.06,true,19:38
+975,Crocuta crocuta,Chinese,Upper East Side,Medium,4.8,false,18:39
+976,Carphophis sp.,Vegan,Harlem,Expensive,0.18,true,9:31
+977,Dicrurus adsimilis,Café,East Village,Cheap,3.51,false,18:23
+978,Terrapene carolina,Sandwiches,Upper East Side,Cheap,0.23,true,10:50
+979,Naja nivea,Korean,Upper West Side,Expensive,1.84,true,9:25
+980,Mazama gouazoubira,Café,Chinatown,Expensive,1.24,false,12:26
+981,Laniaurius atrococcineus,Pizza,Chinatown,Cheap,0.31,false,19:21
+982,Canis aureus,Café,Harlem,Medium,3.4,true,12:45
+983,Macropus parryi,Café,Upper East Side,Medium,3.05,false,14:29
+984,Ara ararauna,Korean,SoHo,Expensive,0.85,true,15:36
+985,Corvus albus,Vegan,East Harlem,Medium,1.2,false,18:56
+986,Nucifraga columbiana,Mediterranean,Financial District,Medium,1.98,true,10:31
+987,Francolinus leucoscepus,Japanese,East Harlem,Medium,2.98,false,12:14
+988,Aegypius tracheliotus,Burger,Harlem,Expensive,3.81,false,14:40
+989,Sarcorhamphus papa,Burger,Harlem,Medium,1.84,false,13:58
+990,Larus fuliginosus,Dinner,Upper West Side,Expensive,2.5,false,11:42
+991,Odocoileus hemionus,Fast Food,Harlem,Medium,1.56,false,21:07
+992,Dicrostonyx groenlandicus,Chinese,East Village,Cheap,1.4,false,14:02
+993,Myrmecophaga tridactyla,Chinese,Chinatown,Expensive,4.16,false,19:35
+994,Lycaon pictus,Vegan,Chinatown,Cheap,1.65,false,22:01
+995,Eubalaena australis,Vegan,Upper West Side,Medium,1.11,true,15:52
+996,Alcelaphus buselaphus cokii,Burger,Upper West Side,Expensive,3.69,false,9:48
+997,Corvus brachyrhynchos,Salads,East Harlem,Medium,3.09,true,10:53
+998,Otocyon megalotis,Fast Food,Harlem,Expensive,0.98,false,22:51
+999,Ardea cinerea,Fast Food,Harlem,Medium,0.36,true,10:13
+1000,Ursus americanus,Korean,Upper East Side,Medium,1.56,false,13:21
